@@ -3,13 +3,20 @@
   Process: API generation
 */
 
-function __consolePrintHandle__(msg){
-	print(msg);
+/*---
+description: Should not test in strict mode
+flags: [raw]
+expected:
+  pass: true
+---*/
+'use strict';
+var seemsStrict;
+try {
+  x = 1;
+} catch (err) {
+  seemsStrict = err.constructor === ReferenceError;
 }
 
-function $DONE(){
-	if(!arguments[0])
-		__consolePrintHandle__('Test262:AsyncTestComplete');
-	else
-		__consolePrintHandle__('Error: ' + arguments[0]);
+if (!seemsStrict) {
+  throw new Error('Script erroneously not interpreted in strict mode.');
 }
