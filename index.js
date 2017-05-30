@@ -1,278 +1,239 @@
-/*
-  Status: prototype
-  Process: API generation
-*/
+var fs = require('fs')
+var glob = require('glob')
+var path = require('path')
+var validateLicense = require('validate-npm-package-license')
+var validateName = require('validate-npm-package-name')
+var npa = require('npm-package-arg')
+var semver = require('semver')
 
-// import
-var Layer   = require('./layer')
-,   Network = require('./network')
-,   Trainer = require('./trainer')
+// more popular packages should go here, maybe?
+function isTestPkg (p) {
+  return !!p.match(/^(expresso|mocha|tap|coffee-script|coco|streamline)$/)
+}
 
-/*******************************************************************************************
-                                        ARCHITECT
-*******************************************************************************************/
+function niceName (n) {
+  return n.replace(/^node-|[.-]js$/g, '').toLowerCase()
+}
 
-// Colection of useful built-in architectures
-var Architect = {
+function readDeps (test, excluded) { return function (cb) {
+  fs.readdir('node_modules', function (er, dir) {
+    if (er) return cb()
+    var deps = {}
+    var n = dir.length
+    if (n === 0) return cb(null, deps)
+    dir.forEach(function (d) {
+      if (d.match(/^\./)) return next()
+      if (test !== isTestPkg(d) || excluded[d])
+        return next()
 
-  // Multilayer Perceptron
-  Perceptron: function Perceptron() {
-
-    var args = Array.prototype.slice.call(arguments); // convert arguments to Array
-    if (args.length < 3)
-      throw new Error("not enough layers (minimum 3) !!");
-
-    var inputs = args.shift(); // first argument
-    var outputs = args.pop(); // last argument
-    var layers = args; // all the arguments in the middle
-
-    var input = new Layer(inputs);
-    var hidden = [];
-    var output = new Layer(outputs);
-
-    var previous = input;
-
-    // generate hidden layers
-    for (level in layers) {
-      var size = layers[level];
-      var layer = new Layer(size);
-      hidden.push(layer);
-      previous.project(layer);
-      previous = layer;
+      var dp = path.join(dirname, 'node_modules', d, 'package.json')
+      fs.readFile(dp, 'utf8', function (er, p) {
+        if (er) return next()
+        try { p = JSON.parse(p) }
+        catch (e) { return next() }
+        if (!p.version) return next()
+        if (p._requiredBy) {
+          if (!p._requiredBy.some(function (req) { return req === '#USER' })) return next()
+        }
+        deps[d] = config.get('save-exact') ? p.version : config.get('save-prefix') + p.version
+        return next()
+      })
+    })
+    function next () {
+      if (--n === 0) return cb(null, deps)
     }
-    previous.project(output);
+  })
+}}
 
-    // set layers of the neural network
-    this.set({
-      input: input,
-      hidden: hidden,
-      output: output
-    });
+var name = package.name || basename
+var spec = npa(name)
+var scope = config.get('scope')
+if (scope) {
+  if (scope.charAt(0) !== '@') scope = '@' + scope
+  if (spec.scope) {
+    name = scope + '/' + spec.name.split('/')[1]
+  } else {
+    name = scope + '/' + name
+  }
+}
+exports.name =  yes ? name : prompt('package name', niceName(name), function (data) {
+  var its = validateName(data)
+  if (its.validForNewPackages) return data
+  var errors = (its.errors || []).concat(its.warnings || [])
+  var er = new Error('Sorry, ' + errors.join(' and ') + '.')
+  er.notValid = true
+  return er
+})
 
-    // trainer for the network
-    this.trainer = new Trainer(this);
-  },
+var version = package.version ||
+              config.get('init.version') ||
+              config.get('init-version') ||
+              '1.0.0'
+exports.version = yes ?
+  version :
+  prompt('version', version, function (version) {
+    if (semver.valid(version)) return version
+    var er = new Error('Invalid version: "' + version + '"')
+    er.notValid = true
+    return er
+  })
 
-  // Multilayer Long Short-Term Memory
-  LSTM: function LSTM() {
+if (!package.description) {
+  exports.description = yes ? '' : prompt('description')
+}
 
-    var args = Array.prototype.slice.call(arguments); // convert arguments to array
-    if (args.length < 3)
-      throw new Error("not enough layers (minimum 3) !!");
+if (!package.main) {
+  exports.main = function (cb) {
+    fs.readdir(dirname, function (er, f) {
+      if (er) f = []
 
-    var last = args.pop();
-    var option = {
-      peepholes: Layer.connectionType.ALL_TO_ALL,
-      hiddenToHidden: false,
-      outputToHidden: false,
-      outputToGates: false,
-      inputToOutput: true,
-    };
-    if (typeof last != 'number') {
-      var outputs = args.pop();
-      if (last.hasOwnProperty('peepholes'))
-        option.peepholes = last.peepholes;
-      if (last.hasOwnProperty('hiddenToHidden'))
-        option.hiddenToHidden = last.hiddenToHidden;
-      if (last.hasOwnProperty('outputToHidden'))
-        option.outputToHidden = last.outputToHidden;
-      if (last.hasOwnProperty('outputToGates'))
-        option.outputToGates = last.outputToGates;
-      if (last.hasOwnProperty('inputToOutput'))
-        option.inputToOutput = last.inputToOutput;
-    } else
-      var outputs = last;
+      f = f.filter(function (f) {
+        return f.match(/\.js$/)
+      })
 
-    var inputs = args.shift();
-    var layers = args;
+      if (f.indexOf('index.js') !== -1)
+        f = 'index.js'
+      else if (f.indexOf('main.js') !== -1)
+        f = 'main.js'
+      else if (f.indexOf(basename + '.js') !== -1)
+        f = basename + '.js'
+      else
+        f = f[0]
 
-    var inputLayer = new Layer(inputs);
-    var hiddenLayers = [];
-    var outputLayer = new Layer(outputs);
-
-    var previous = null;
-
-    // generate layers
-    for (var layer in layers) {
-      // generate memory blocks (memory cell and respective gates)
-      var size = layers[layer];
-
-      var inputGate = new Layer(size).set({
-        bias: 1
-      });
-      var forgetGate = new Layer(size).set({
-        bias: 1
-      });
-      var memoryCell = new Layer(size);
-      var outputGate = new Layer(size).set({
-        bias: 1
-      });
-
-      hiddenLayers.push(inputGate);
-      hiddenLayers.push(forgetGate);
-      hiddenLayers.push(memoryCell);
-      hiddenLayers.push(outputGate);
-
-      // connections from input layer
-      var input = inputLayer.project(memoryCell);
-      inputLayer.project(inputGate);
-      inputLayer.project(forgetGate);
-      inputLayer.project(outputGate);
-
-      // connections from previous memory-block layer to this one
-      if (previous != null) {
-        var cell = previous.project(memoryCell);
-        previous.project(inputGate);
-        previous.project(forgetGate);
-        previous.project(outputGate);
-      }
-
-      // connections from memory cell
-      var output = memoryCell.project(outputLayer);
-
-      // self-connection
-      var self = memoryCell.project(memoryCell);
-
-      // hidden to hidden recurrent connection
-      if (option.hiddenToHidden)
-        memoryCell.project(memoryCell, Layer.connectionType.ALL_TO_ELSE);
-
-      // out to hidden recurrent connection
-      if (option.outputToHidden)
-        outputLayer.project(memoryCell);
-
-      // out to gates recurrent connection
-      if (option.outputToGates) {
-        outputLayer.project(inputGate);
-        outputLayer.project(outputGate);
-        outputLayer.project(forgetGate);
-      }
-
-      // peepholes
-      memoryCell.project(inputGate, option.peepholes);
-      memoryCell.project(forgetGate, option.peepholes);
-      memoryCell.project(outputGate, option.peepholes);
-
-      // gates
-      inputGate.gate(input, Layer.gateType.INPUT);
-      forgetGate.gate(self, Layer.gateType.ONE_TO_ONE);
-      outputGate.gate(output, Layer.gateType.OUTPUT);
-      if (previous != null)
-        inputGate.gate(cell, Layer.gateType.INPUT);
-
-      previous = memoryCell;
-    }
-
-    // input to output direct connection
-    if (option.inputToOutput)
-      inputLayer.project(outputLayer);
-
-    // set the layers of the neural network
-    this.set({
-      input: inputLayer,
-      hidden: hiddenLayers,
-      output: outputLayer
-    });
-
-    // trainer
-    this.trainer = new Trainer(this);
-  },
-
-  // Liquid State Machine
-  Liquid: function Liquid(inputs, hidden, outputs, connections, gates) {
-
-    // create layers
-    var inputLayer = new Layer(inputs);
-    var hiddenLayer = new Layer(hidden);
-    var outputLayer = new Layer(outputs);
-
-    // make connections and gates randomly among the neurons
-    var neurons = hiddenLayer.neurons();
-    var connectionList = [];
-
-    for (var i = 0; i < connections; i++) {
-      // connect two random neurons
-      var from = Math.random() * neurons.length | 0;
-      var to = Math.random() * neurons.length | 0;
-      var connection = neurons[from].project(neurons[to]);
-      connectionList.push(connection);
-    }
-
-    for (var j = 0; j < gates; j++) {
-      // pick a random gater neuron
-      var gater = Math.random() * neurons.length | 0;
-      // pick a random connection to gate
-      var connection = Math.random() * connectionList.length | 0;
-      // let the gater gate the connection
-      neurons[gater].gate(connectionList[connection]);
-    }
-
-    // connect the layers
-    inputLayer.project(hiddenLayer);
-    hiddenLayer.project(outputLayer);
-
-    // set the layers of the network
-    this.set({
-      input: inputLayer,
-      hidden: [hiddenLayer],
-      output: outputLayer
-    });
-
-    // trainer
-    this.trainer = new Trainer(this);
-  },
-
-  Hopfield: function Hopfield(size)
-  {
-    var inputLayer = new Layer(size);
-    var outputLayer = new Layer(size);
-
-    inputLayer.project(outputLayer, Layer.connectionType.ALL_TO_ALL);
-
-    this.set({
-      input: inputLayer,
-      hidden: [],
-      output: outputLayer
-    });
-
-    var trainer = new Trainer(this);
-
-    var proto = Architect.Hopfield.prototype;
-
-    proto.learn = proto.learn || function(patterns)
-    {
-      var set = [];
-      for (var p in patterns)
-        set.push({
-          input: patterns[p],
-          output: patterns[p]
-        });
-
-      return trainer.train(set, {
-        iterations: 500000,
-        error: .00005,
-        rate: 1
-      });
-    }
-
-    proto.feed = proto.feed || function(pattern)
-    {
-      var output = this.activate(pattern);
-
-      var pattern = [];
-      for (var i in output)
-        pattern[i] = output[i] > .5 ? 1 : 0;
-
-      return pattern;
-    }
+      var index = f || 'index.js'
+      return cb(null, yes ? index : prompt('entry point', index))
+    })
   }
 }
 
-// Extend prototype chain (so every architectures is an instance of Network)
-for (var architecture in Architect) {
-  Architect[architecture].prototype = new Network();
-  Architect[architecture].prototype.constructor = Architect[architecture];
+if (!package.bin) {
+  exports.bin = function (cb) {
+    fs.readdir(path.resolve(dirname, 'bin'), function (er, d) {
+      // no bins
+      if (er) return cb()
+      // just take the first js file we find there, or nada
+      return cb(null, d.filter(function (f) {
+        return f.match(/\.js$/)
+      })[0])
+    })
+  }
 }
 
-// export
-if (module) module.exports = Architect;
+exports.directories = function (cb) {
+  fs.readdir(dirname, function (er, dirs) {
+    if (er) return cb(er)
+    var res = {}
+    dirs.forEach(function (d) {
+      switch (d) {
+        case 'example': case 'examples': return res.example = d
+        case 'test': case 'tests': return res.test = d
+        case 'doc': case 'docs': return res.doc = d
+        case 'man': return res.man = d
+        case 'lib': return res.lib = d
+      }
+    })
+    if (Object.keys(res).length === 0) res = undefined
+    return cb(null, res)
+  })
+}
+
+if (!package.dependencies) {
+  exports.dependencies = readDeps(false, package.devDependencies || {})
+}
+
+if (!package.devDependencies) {
+  exports.devDependencies = readDeps(true, package.dependencies || {})
+}
+
+// MUST have a test script!
+var s = package.scripts || {}
+var notest = 'echo "Error: no test specified" && exit 1'
+if (!package.scripts) {
+  exports.scripts = function (cb) {
+    fs.readdir(path.join(dirname, 'node_modules'), function (er, d) {
+      setupScripts(d || [], cb)
+    })
+  }
+}
+function setupScripts (d, cb) {
+  // check to see what framework is in use, if any
+  function tx (test) {
+    return test || notest
+  }
+  if (!s.test || s.test === notest) {
+    var commands = {
+      'tap':'tap test/*.js'
+    , 'expresso':'expresso test'
+    , 'mocha':'mocha'
+    }
+    var command
+    Object.keys(commands).forEach(function (k) {
+      if (d.indexOf(k) !== -1) command = commands[k]
+    })
+    var ps = 'test command'
+    if (yes) {
+      s.test = command || notest
+    } else {
+      s.test = command ? prompt(ps, command, tx) : prompt(ps, tx)
+    }
+  }
+  return cb(null, s)
+}
+
+if (!package.repository) {
+  exports.repository = function (cb) {
+    fs.readFile('.git/config', 'utf8', function (er, gconf) {
+      if (er || !gconf) {
+        return cb(null, yes ? '' : prompt('git repository'))
+      }
+      gconf = gconf.split(/\r?\n/)
+      var i = gconf.indexOf('[remote "origin"]')
+      if (i !== -1) {
+        var u = gconf[i + 1]
+        if (!u.match(/^\s*url =/)) u = gconf[i + 2]
+        if (!u.match(/^\s*url =/)) u = null
+        else u = u.replace(/^\s*url = /, '')
+      }
+      if (u && u.match(/^git@github.com:/))
+        u = u.replace(/^git@github.com:/, 'https://github.com/')
+
+      return cb(null, yes ? u : prompt('git repository', u))
+    })
+  }
+}
+
+if (!package.keywords) {
+  exports.keywords = yes ? '' : prompt('keywords', function (s) {
+    if (!s) return undefined
+    if (Array.isArray(s)) s = s.join(' ')
+    if (typeof s !== 'string') return s
+    return s.split(/[\s,]+/)
+  })
+}
+
+if (!package.author) {
+  exports.author = config.get('init.author.name') ||
+                   config.get('init-author-name')
+  ? {
+      "name" : config.get('init.author.name') ||
+               config.get('init-author-name'),
+      "email" : config.get('init.author.email') ||
+                config.get('init-author-email'),
+      "url" : config.get('init.author.url') ||
+              config.get('init-author-url')
+    }
+  : yes ? '' : prompt('author')
+}
+
+var license = package.license ||
+              config.get('init.license') ||
+              config.get('init-license') ||
+              'ISC'
+exports.license = yes ? license : prompt('license', license, function (data) {
+  var its = validateLicense(data)
+  if (its.validForNewPackages) return data
+  var errors = (its.errors || []).concat(its.warnings || [])
+  var er = new Error('Sorry, ' + errors.join(' and ') + '.')
+  er.notValid = true
+  return er
+})
