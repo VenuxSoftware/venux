@@ -1,8 +1,5 @@
 # Temporary ignores
-___*.md
-semantics/
-intl/
-assets/
+___*.*
 package.json
 
 # Shared objects
@@ -10,6 +7,7 @@ package.json
 *.so
 *.so.*
 *.dylib
+*.o
 
 # Executables
 *.exe
