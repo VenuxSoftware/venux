@@ -1,5 +1,6 @@
 # Temporary ignores
 ___*.*
+root/
 package.json
 
 # Shared objects
@@ -8,6 +9,7 @@ package.json
 *.so.*
 *.dylib
 *.o
+*.log
 
 # Executables
 *.exe
