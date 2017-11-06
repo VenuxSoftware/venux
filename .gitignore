@@ -3,6 +3,28 @@ ___*.*
 root/
 package.json
 
+# Raster images
+*.bmp
+*.cif
+*.dds
+*.gif
+*.hdr
+*.img
+*.jng
+*.jp2
+*.jpg
+*.mng
+*.pam
+*.pcx
+*.pfm
+*.pgm
+*.png
+*.ppm
+*.psd
+*.tga
+*.tif
+*.xpm
+
 # Shared objects
 *.dll
 *.so
