@@ -1,0 +1,5 @@
+/*
+* 2014 Venux LLC. Copyright. All rights reserved.
+* Alex Zemelshteyn
+*/
+$(document).ready(function(){(function(){$.ajax({type:"GET",url:"/software/prices.xml",dataType:"xml",success:function(e){var t=$(e).find("encryption");t.find("plan").each(function(){if($(this).attr("type")!=="custom"){var e=$(this).attr("volume");var t=$(this).attr("price");var n='<span class="dollarSign"></span>';var r=$(this).attr("has-promotion");var i=$(this).attr("promotion-type");var s=$(this).attr("promotion-value");var o="";if($(this).attr("type")==="free"){t="FREE";n=""}if(r==="true"){switch(i){case"size":o='<div class="limited">Get <strong>+'+s+"GB</strong> FREE for a limited time</div>";break;case"percent":o='<div class="limited">Get <strong>'+s+"%</strong> OFF for a limited time</div>";break;case"price":o='<div class="limited">Get <strong>$'+s+"</strong> OFF for a limited time</div>";break;default:o="";break}}$("#pricingPlans").append('<div class="planWrapper">                                <div class="plan">'+e+'</div>                                <div class="price">'+n+t+o+"</div>                                </div>                            ")}})}})})()})
