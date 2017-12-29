@@ -1,0 +1,62 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <title>Help</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../css/mCustomScrollbar.css" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <!--Custom Scroll-->
+    <script src="../js/mCustomScrollbar.min.js"></script>
+    <style>
+        h2 {
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            //$('#Faqs h2 + p').hide();
+            $('h2').click(function () {
+                $(this).next('p').slideToggle('normal');
+            });
+        });
+    </script>
+</head>
+<body id="L2Screen">
+    <section id="Faqs" class="LRContent">
+        <h2>What is Venux?</h2>
+        <p>Venux is an innovative software company that is commited to improve software experience and fix the architectural problems in modern systems with 21st century knowledge.</p>
+
+        <h2>What is UID</h2>
+        <p>Simply put, UID is a file. This file acts as a personal wallet no one can see, steal, or use without your credentials. This file contains all of the required information to keep the rest of your data safe.</p>
+        <h2>What is H.I.P.S.<sup>TM</sup>?</h2>
+        <p>Venux's security system is based on the H.I.P.S<sup>TM</sup> principle. It allows the user to have and store data in any location while restricting access for everyone except the authorized user.</p>
+        <h2>How  does Venux privacy work?</h2>
+        <p>Venux heavily relies on  mathematics in order to achive its goals. We don't use databases nor have an  index of our users. Profile (UID) is stored somewhere within the network and updated upon  login and modification. All information leaving your computer/device leaves encrypted. In order to decrypt data, login is required and can not be accessed without the correct credentials.</p>
+        <h2>What  remote services can I connect to with Venux?</h2>
+        <p>
+            Venux can practically work with most modern protocols and online services available on the market. They are FTP, Amazon, Azure, Box.net, WebDAV, DropBox, EDI, Google Drive, iCloud, SFTP,  SkyDrive, SSH, and Yandex. There are other protocols in the works so please update regularly.
+        </p>
+        <h2>How does encryption work?</h2>
+        <p>Encryption is a transformation  of information by a specific algorithm using a specific key to obfuscate the  original data. Please refer to <a href="http://en.wikipedia.org/wiki/Encryption" target="_blank">http://en.wikipedia.org/wiki/Encryption</a> for more information.</p>
+        <h2>What will happen if I forget my password or user name?</h2>
+        <p>You will not have access to your account. Please make sure that you remember your username and password. Venux does not store keys or passwords and will not be able to retrieve them for you.</p>
+        <h2>What personal data does Venux Collect?</h2>
+        <p>
+            Our software collects information such as Venux software version, screen resolution and  operating system version. This is done for statistical purposes to improve our  software and make your life easier. Personal information, settings of any kind  or any other information that is not related to pure software function is not  collected by Venux. All of your personal data is stored in your UID which is inaccessible without login credentials.
+        </p>
+    </section>
+    <script>
+        (function ($) {
+            $(window).load(function () {
+                $("#Faqs").mCustomScrollbar({
+                    theme: "light-medium",
+                    advanced: {
+                        updateOnContentResize: true
+                    }
+                });
+            });
+        })(jQuery);
+    </script>
+<script src="/ga.js"></script></body>
+</html>

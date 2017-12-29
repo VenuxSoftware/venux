@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MME Overview</title>
+    <link type="text/css" rel="stylesheet" href="../css/overview.css" />
+    <link type="text/css" rel="stylesheet" href="../css/main.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script src="../js/jquery.scrollTo.min.js"></script>
+    <script src="../js/jquery.localScroll.js"></script>
+    <script src="../js/overview.js"></script>
+    <script>
+        jQuery(function ($) {
+            /**
+             * Most jQuery.localScroll's settings, actually belong to jQuery.ScrollTo, check it's demo for an example of each option.
+             * @see http://flesler.demos.com/jquery/scrollTo/
+             * You can use EVERY single setting of jQuery.ScrollTo, in the settings hash you send to jQuery.LocalScroll.
+             */
+
+            // The default axis is 'y', but in this demo, I want to scroll both
+            // You can modify any default like this
+            $.localScroll.defaults.axis = 'xy';
+
+            /**
+             * NOTE: I use $.localScroll instead of $('#navigation').localScroll() so I
+             * also affect the >> and << links. I want every link in the page to scroll.
+             */
+            $.localScroll({
+                target: '#overview', // could be a selector or a jQuery object too.
+                queue: true,
+                duration: 2000,
+                hash: false,
+                lazy: true,
+                onBefore: function (e, anchor, $target) {
+                    // The 'this' is the settings object, can be modified
+                },
+                onAfter: function (anchor, settings) {
+                    // The 'this' contains the scrolled element (#content)
+                }
+            });
+
+            jQuery(window).load(function ($) {
+                var mmeOverview = {
+                    '../images/icons/overview/play.svg': ['Play', 7],
+                    '../images/icons/overview/convert.svg': ['Convert', 2],
+                    '../images/icons/overview/edit.svg': ['Edit', 3],
+                    '../images/icons/overview/search.svg': ['Search', 6],
+                    '../images/icons/overview/organize.svg': ['Organize', 4],
+                    '../images/icons/overview/share.svg': ['Share', 1],
+                    '../images/icons/overview/uid.svg': ['Universal ID', 8]
+                };
+
+                MENU.AddTo('menu', "center", mmeOverview); //5
+                MENU.AddToPage(9, 'right', mmeOverview);
+                MENU.AddToAllPages(mmeOverview);
+                //All pages are used up here +1 page for supported formats
+            });
+
+        });
+    </script>
+</head>
+<body>
+    <div id="overview">
+        <div class="section">
+            <ul>
+                <li class="sub" id="page1">
+                    <h2>Share</h2>
+                    <p>Share your media with friends and contacts.</p>
+                    <div class="multimediaShare"></div>
+                </li>
+                <li class="sub" id="page2">
+                    <h2>Convert</h2>
+                    <p>Easily convert your media to many other formats.</p>
+                    <div class="multimediaConvert"></div>
+                </li>
+                <li class="sub" id="page3">
+                    <h2>Edit</h2>
+                    <p>Edit images, videos, and music with our plugins and effects.</p>
+                    <div class="multimediaEdit"></div>
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <ul>
+                <li class="sub" id="page4">
+                    <h2>Organize</h2>
+                    <p>Organize your media using categories, playlists, views, and much more.</p>
+                    <div class="multimediaOrganize"></div>
+                </li>
+                <li class="sub mainPage" id="page5">
+                    <menu>
+                        <h1>Venux Multimedia Engine</h1>
+                    </menu>
+                </li>
+                <li class="sub" id="page6">
+                    <h2>Search</h2>
+                    <p class="width-30p">Search for multimedia that's stored locally and on remote services.</p>
+                    <div class="multimediaSearch"></div>
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <ul>
+                <li class="sub" id="page7">
+                    <h2>Play</h2>
+                    <p>Play nearly all <a href="#page9">media formats</a> with Venux Multimedia Engine.</p>
+                    <!--                    <p>Click <a href="#page9">here</a> for a list of supported file formats.</p>-->
+                    <div class="playImage"></div>
+                </li>
+                <li class="sub" id="page8">
+                    <h2>Universal ID</h2>
+                    <p>Prevent unauthorized surveillance and monitoring from hackers, spies, and quantum computers while keeping data securely hidden in plain sight.</p>
+                    <div class="uidImage"></div>
+                </li>
+                <li class="sub supportedFormats" id="page9">
+                    <h2>Supported Formats</h2>
+                    <h3>Image Formats</h3>
+                    <p>BMP, GIF, JPEG, JPG, JPE, JNG, JP2, PNG, SGI, TIFF, TIF, PSD, DJVU, DJV, WBMP, XIF, ICO, PCX, DCX, PIC, PCT, PICT, PNM, PBM, PGM, PPM, PXM, BW, RGB, RGBA, SGI, TGA, TARGA, XBM, XPM, DNG, CR2, CRW, DCR, MRW, NEF, ORF, PEF, RAF, RAW, SRF, X3F, CUR, PSP, PCD, PIX, CUT, PAL, FITS, XCF, DOT, HDF, PCL, JBIG, JBG, BIE, VIFF, CIN, MIFF, MAT, PWP, RLA, RPF, DPX, SUN, VICAR, WBMP</p>
+                    <h3>Audio Formats</h3>
+                    <p>MID, MIDI, KAR, RMI, MP4A, MPGA, MP2, MP2A, MP3, M2A, M3A OGA, OGG, SPX, WEBA, AAC, AIF, AIFF, AIFC, CAF, FLAC, MKA, WMA, RAM, RA, WAV, M4A</p>
+                    <h3>Video Formats</h3>
+                    <p>3GP, 3G2, MP4, MP4V, MPG4, MPEG, MPG, MPE, M1V, M2V, OGV, QT, MOV, WEBM, FLV, MKV, MK3D, MKS, MNG, ASF, ASX, VOB, WMV, AVI, MTS, M2TS</p>
+                    <h3>3D Formats</h3>
+                    <p>ACE, DAE</p>
+                    <h3>Vector Formats</h3>
+                    <p>SVG</p>
+                    <h3>Medical Imaging Formats</h3>
+                    <p>DICOM</p>
+                    <div class="fileFormat"></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script src="/ga.js"></script>
+</body>
+</html>
