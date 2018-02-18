@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+    <!ENTITY wn20instances 'http://www.w3.org/2006/03/wn/wn20/instances/'>
+    <!ENTITY wn20schema 'http://www.w3.org/2006/03/wn/wn20/schema/'>
+]>
+
+<rdf:RDF
+    xmlns:rdf="&rdf;"
+    xmlns:rdfs="&rdfs;"
+    xmlns:wn20instances="&wn20instances;"
+    xmlns:wn20schema="&wn20schema;"
+    xml:lang="en-US">
+<rdf:Description rdf:about="&wn20instances;wordsense-stretch-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-overdress-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-dress_up-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-melt_off-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-gain-verb-9"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_birth-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-throw_up-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-regurgitate-verb-4"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-retch-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-vomit_up-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-sun-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-renovate-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_over-verb-3"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-implode-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-persist-verb-2"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-knock_off-verb-5"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-gear_up-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-prepare-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-complete-verb-1">
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+  <wn20schema:frame>Something ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-go_through-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-follow_through-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hack-verb-6"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_the_picture-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_onto-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_account-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_the_hang-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-see-verb-6"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-discover-verb-3"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_a_line-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_wind-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_word-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hear-verb-2"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-learn-verb-2"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-soak_up-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-absorb-verb-7"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_up-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hold-verb-13"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-block-verb-13">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s that CLAUSE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-think_over-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-chew_over-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-divide-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-differentiate-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-integrate-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-see-verb-10"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-put_up-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-submit-verb-7"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-choose-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-doubt-verb-1"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-rethink-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-brush_up-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-determine-verb-5">
+  <wn20schema:frame>Somebody ----s that CLAUSE</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s whether INFINITIVE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make_up_one_s_mind-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-decide-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s that CLAUSE</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s whether INFINITIVE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-brood-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-shoot_for-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-draw_a_bead_on-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-will-verb-2"
+    wn20schema:frame="Somebody ----s INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-wait-verb-3"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-look-verb-8"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-concentrate-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-beware-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-credit-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-solve-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-deal-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_through-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-dictate-verb-1"
+    wn20schema:frame="Somebody ----s to somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-charge-verb-18"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-mandate-verb-3"
+    wn20schema:frame="Somebody ----s something to somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-ask-verb-2"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-push-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-persuade-verb-2">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s somebody to INFINITIVE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get-verb-10"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cause-verb-2"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-stimulate-verb-2"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-induce-verb-2"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-renege-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-disagree-verb-1"
+    wn20schema:frame="Somebody ----s on something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-yield-verb-8"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-concede-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-object-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-face_up-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-turn_over-verb-9"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-have_words-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-remonstrate-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-jaw-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-teach-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s somebody something</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something to somebody</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pose-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make-verb-42"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-stag-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-snitch-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-shop-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-shit-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-grass-verb-6"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-rat-verb-6"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pick-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-find_fault-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-charge-verb-2"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-shout-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-rail-verb-9"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-vituperate-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-mind-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bristle_up-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bridle_up-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-poke_fun-verb-1">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make_fun-verb-1">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-put_one_over-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-chaff-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-kid-verb-2"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-snipe-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lash_out-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-round-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-collogue-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-refer-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-consult-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-fawn-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-promise-verb-1">
+  <wn20schema:frame>Somebody ----s somebody to INFINITIVE</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-vouch-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_thanks-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-condescend-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-come_in-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-point-verb-5"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-wonder-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-paint_a_picture-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-refer-verb-6">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something is ----ing PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-sell_out-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-blab_out-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-babble_out-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_vent-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-spill-verb-5"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-tell-verb-3"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-report-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-publicize-verb-2"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-advertise-verb-1"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_voice-verb-1"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-speak-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-write-verb-2">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s somebody something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-film-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bear_witness-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-testify-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-arrange-verb-2"
+    wn20schema:frame="Somebody ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-refer-verb-1">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something is ----ing PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-advert-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-appeal-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-deal-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-chat_up-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-comment-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s that CLAUSE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-present-verb-11"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-compete-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-quit-verb-5"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_up-verb-3"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-have_the_best-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_the_best-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-attack-verb-3">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-charge-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-point-verb-11"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-aim-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-eat-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-waste-verb-6"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-peck_at-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pick_at-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-drink-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give-verb-24">
+  <wn20schema:frame>Somebody ----s somebody something</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something to somebody</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cater-verb-1"
+    wn20schema:frame="Somebody ----s to somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-ply-verb-1"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-supply-verb-3"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-provide-verb-2"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-crave-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-enjoy-verb-5"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-eat_up-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_a_hit-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-light-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-prey-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-raven-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-fill_up-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-strike-verb-6"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_hold-verb-2">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something is ----ing PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-dust-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-layer-verb-1">
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+  <wn20schema:frame>Something ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pucker-verb-1"
+    wn20schema:frame="Something ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-anchor-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-come_up-verb-12"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-come_up-verb-11"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hit-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hole_out-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lie_with-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hump-verb-2"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-fuck-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-screw-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-score-verb-5"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-let_go-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-park-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-reel-verb-3"
+    wn20schema:frame="Somebody ----s something PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-build-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-film-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_rise-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-strike_a_chord-verb-2"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-feel-verb-1">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something ----s Adjective/Noun</wn20schema:frame>
+  <wn20schema:frame>Something ----s something Adjective/Noun</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-suffer-verb-3"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-regret-verb-1">
+  <wn20schema:frame>Somebody ----s VERB-ing</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s that CLAUSE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bask-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-wish_well-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-begrudge-verb-2"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-want-verb-1"
+    wn20schema:frame="Somebody ----s somebody to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-envy-verb-2"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-envy-verb-1"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-usher-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_leave-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-skip-verb-4"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-break-verb-7"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_note-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-watch-verb-4"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bury-verb-1"
+    wn20schema:frame="Somebody ----s something from somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pop-verb-6"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hang-verb-7"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-ring-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-endow-verb-2"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-hold_on-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-subscribe-verb-5"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-come_up-verb-9"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_hold-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_into-verb-3"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-owe-verb-3"
+    wn20schema:frame="Somebody ----s something to somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-save-verb-5"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lay_claim-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-rustle-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-partake-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-offer-verb-5"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-offer-verb-11"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-resign-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-vacate-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-presume-verb-2"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make_bold-verb-1"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-resign-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-divest-verb-2"
+    wn20schema:frame="Somebody ----s somebody of something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-post-verb-3"
+    wn20schema:frame="Somebody ----s somebody PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_the_sack-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-give_the_axe-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-sign-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_off-verb-4"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-take_over-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-dabble-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-adjourn-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-join-verb-1">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-care-verb-4"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-deal-verb-7"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-conduct-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-be-verb-8">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_along-verb-2"
+    wn20schema:frame="Something ----s Adjective/Noun"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_on-verb-1"
+    wn20schema:frame="Something ----s Adjective/Noun"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lobby-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-goldbrick-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-empower-verb-1"
+    wn20schema:frame="Somebody ----s somebody with something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-date-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-go_out-verb-6"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-go_steady-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-visit-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_married-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-marry-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-receive-verb-10"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-discriminate-verb-2">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-step-verb-4"
+    wn20schema:frame="Somebody ----s something PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-atone-verb-1"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-manage-verb-1"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pass-verb-14"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-try-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-work-verb-15"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-bond-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-abide_by-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-follow-verb-5"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-run_a_risk-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-award-verb-3"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-help-verb-1"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-fuss-verb-2"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-prostitute-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-blunder-verb-1"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-break-verb-11"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-break_in-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-listen-verb-3"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-trick-verb-1"
+    wn20schema:frame="Somebody ----s somebody into V-ing something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-wander-verb-2"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cheat-verb-4"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-manipulate-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-fudge-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-juggle-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-sue-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-rule-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-govern-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-manage-verb-3"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make_do-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-make_out-verb-5"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-get_by-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cope-verb-1"
+    wn20schema:frame="Somebody ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-act_superior-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-put_on_airs-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-queen_it_over-verb-1">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lord_it_over-verb-1">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-survive-verb-2"
+    wn20schema:frame="Somebody ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-require-verb-1">
+  <wn20schema:frame>It ----s that CLAUSE</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s somebody to INFINITIVE</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-necessitate-verb-1"
+    wn20schema:frame="It ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-equate-verb-2"
+    wn20schema:frame="Something ----s something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-ensue-verb-1"
+    wn20schema:frame="It ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-be_due-verb-1"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-stick-verb-8"
+    wn20schema:frame="Somebody ----s something PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-come_close-verb-2"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-suffice-verb-1"
+    wn20schema:frame="It ----s that CLAUSE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-outrank-verb-1"
+    wn20schema:frame="Somebody ----s somebody"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-relate-verb-2"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-pertain-verb-1"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-refer-verb-2"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-center-verb-1">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something is ----ing PP</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-go_for-verb-1">
+  <wn20schema:frame>Something ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Something ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cease-verb-1"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-stop-verb-2"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-go_on-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Something ----s</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-continue-verb-1">
+  <wn20schema:frame>Somebody ----s</wn20schema:frame>
+  <wn20schema:frame>Something ----s</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-lead-verb-8">
+  <wn20schema:frame>Somebody ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Somebody ----s something</wn20schema:frame>
+  <wn20schema:frame>Something ----s somebody</wn20schema:frame>
+  <wn20schema:frame>Something ----s something</wn20schema:frame>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-threaten-verb-1"
+    wn20schema:frame="Somebody ----s to INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-correspond-verb-4"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-cost-verb-1"
+    wn20schema:frame="Somebody ----s somebody something"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-teem-verb-1"
+    wn20schema:frame="Something ----s"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-provide-verb-5"
+    wn20schema:frame="Somebody ----s PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-relate-verb-4"
+    wn20schema:frame="Something is ----ing PP"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-facilitate-verb-2"
+    wn20schema:frame="Something ----s INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-help-verb-2"
+    wn20schema:frame="Something ----s INFINITIVE"/>
+
+<rdf:Description rdf:about="&wn20instances;wordsense-meet-verb-11">
+  <wn20schema:frame>Somebody ----s PP</wn20schema:frame>
+  <wn20schema:frame>Something is ----ing PP</wn20schema:frame>
+</rdf:Description>
+
+</rdf:RDF>

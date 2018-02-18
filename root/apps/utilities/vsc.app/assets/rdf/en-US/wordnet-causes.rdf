@@ -1,0 +1,881 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+    <!ENTITY wn20instances 'http://www.w3.org/2006/03/wn/wn20/instances/'>
+    <!ENTITY wn20schema 'http://www.w3.org/2006/03/wn/wn20/schema/'>
+]>
+
+<rdf:RDF
+    xmlns:rdf="&rdf;"
+    xmlns:rdfs="&rdfs;"
+    xmlns:wn20instances="&wn20instances;"
+    xmlns:wn20schema="&wn20schema;"
+    xml:lang="en-US">
+<rdf:Description rdf:about="&wn20instances;synset-cause_to_sleep-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-keep_up-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stay_up-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-anesthetize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tense-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-tense-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-relax-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-relax-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cross-fertilize-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-cross-fertilize-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-propagate-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-propagate-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hurt-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-ache-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-purge-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-evacuate-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tire-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-tire-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-choke-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-choke-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-resuscitate-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-come_to-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-exercise-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-exercise-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-change-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-change-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-granulate-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-granulate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-break_in-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-break-verb-22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-better-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-better-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dry-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-dry-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-strengthen-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-strengthen-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-weaken-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-weaken-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-intensify-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-intensify-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-crack-verb-11">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-crack-verb-12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shrink-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-shrink-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-grow-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-grow-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-age-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-senesce-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ripen-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-ripen-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-develop-verb-12">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-develop-verb-10"/>
+  <wn20schema:causes rdf:resource="&wn20instances;synset-grow-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mellow-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-mellow-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soften-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-soften-verb-7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bulge-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-bulge-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-swell-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-swell-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bilge-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-bilge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-polymerize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-polymerize-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mobilize-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-discolor-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-discolor-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fit-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fit-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-widen-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-widen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-explode-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-explode-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-darken-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-darken-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brighten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-brighten-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-blur-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-blur-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-focus-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-focus-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shorten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-shorten-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-broaden-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-broaden-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lengthen-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-lengthen-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-elongate-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stretch-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-begin-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-begin-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-end-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-end-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bloat-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-bloat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pasteurize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-condense-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cool-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-cool-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-heat-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-heat-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overheat-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-overheat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-boil-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-boil-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-freeze-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-freeze-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-convert-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-convert-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Islamize-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-convert-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-waste-verb-8">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-emaciate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sharpen-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sharpen-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-even-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-even-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stiffen-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stiffen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-loosen-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-loosen-verb-7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-slacken-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-slacken-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thin-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-thin-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thicken-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-thicken-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-harden-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-harden-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-solidify-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-solidify-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-crystallize-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-crystallize-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-solvate-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-solvate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dissolve-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-dissolve-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-empty-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-empty-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fill-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fill-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-flush-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-run-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ferment-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sour-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rush-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rush-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hush-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-hush-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-morph-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-morph-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-emulsify-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-emulsify-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-demulsify-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-demulsify-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pall-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-die-verb-9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-open-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-open-verb-7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydrolize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-hydrolyze-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-click-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-understand-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-resonate-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-understand-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plunge-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-steep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-remind-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-remember-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-decide-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-decide-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-teach-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-learn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unteach-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-unlearn-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-suborn-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-perjure-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-incite-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-act-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cheer-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-cheer-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-convulse-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-convulse-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-disclose-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-break-verb-46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-leak-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-break-verb-46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-circulate-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-go_around-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-air-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-air-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-drive_in-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-score-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fire-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fire-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-retire-verb-11">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-move_over-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-use-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-apply-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-drench-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-drink-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-feed-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-eat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-starve-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-starve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-drug-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-trip-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fell-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-descend-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-disjoin-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-disjoin-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-join-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-join-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-attach-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-attach-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kill-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-die-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fasten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fasten-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unfasten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-unfasten-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-close-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-close-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-open-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-open-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-affix-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-adhere-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-break-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-break-verb-42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-break_down-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-crumble-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-percolate-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-percolate-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hang-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-hang-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-seat-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sit-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lay-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-lie-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stand-verb-10">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stand-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-separate-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-separate-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-crash-verb-8">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-crash-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-poise-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-poise-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-effect-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-happen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trip-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-happen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fruit-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fruit-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-worry-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-worry-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-affect-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-feel-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-embitter-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-resent-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-frighten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fear-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-panic-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-panic-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-anger-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-anger-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-combust-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-flip_one_s_lid-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fret-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fret-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pique-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-resent-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fluster-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fluster-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pain-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-suffer-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-agonize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-agonize-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-enrage-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rage-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-grieve-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-grieve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-elate-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rejoice-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sadden-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sadden-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gladden-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-gladden-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lighten-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-lighten-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-please-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-like-verb-2"/>
+  <wn20schema:causes rdf:resource="&wn20instances;synset-like-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-displease-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-dislike-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-encourage-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-hope-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mire-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-grind_to_a_halt-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-travel-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-travel-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fly-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-float-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-move-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-start-verb-8">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-start-verb-9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stop-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stop-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tide-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-tide-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pulse-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-pulsate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trip-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stumble-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overturn-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-overturn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bundle_off-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-leave-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-jump-verb-10">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-jump-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lower-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-descend-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lift-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-raise-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-raise-verb-15">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-rise-verb-12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-land-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-land-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sink-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sink-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-collapse-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-collapse-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-back-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-back-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-evacuate-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-move-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ground-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-ground-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-circulate-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-circulate-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rotate-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-revolve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pass-verb-23">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-pass-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-flow-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-run-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pour-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-run-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-leach-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-leach-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-march-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-march-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stampede-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stampede-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pack-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-throng-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-subject-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-experience-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sensitize-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-feel-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-odorize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-smell-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-show-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-see-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-project-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-appear-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-produce-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-appear-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bethink-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-study-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sound-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sound-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ring-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-sound-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-clink-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-tinkle-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-season-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-taste-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-give-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-have-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-transfer-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-change_hands-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bounce-verb-6">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-bounce-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-graduate-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-graduate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-retire-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-retire-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pension_off-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-retire-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-take_out-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-work-verb-12">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-work-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-call-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-meet-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unionize-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-unionize-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-direct-verb-4">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-act-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-coerce-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-act-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-compel-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-act-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pass-verb-16">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-pass-verb-14"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rear-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-grow_up-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stampede-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-stampede-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-assemble-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-meet-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dovetail-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-fit-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-break-verb-25">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-break-verb-26"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-orient-verb-3">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-orient-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-follow-verb-10">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-follow-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cohere-verb-2">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-cohere-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ignite-verb-1">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-burn-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-burn-verb-5">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-burn-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shine-verb-7">
+  <wn20schema:causes rdf:resource="&wn20instances;synset-shine-verb-2"/>
+</rdf:Description>
+
+</rdf:RDF>

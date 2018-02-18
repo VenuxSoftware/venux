@@ -1,0 +1,1597 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+    <!ENTITY wn20instances 'http://www.w3.org/2006/03/wn/wn20/instances/'>
+    <!ENTITY wn20schema 'http://www.w3.org/2006/03/wn/wn20/schema/'>
+]>
+
+<rdf:RDF
+    xmlns:rdf="&rdf;"
+    xmlns:rdfs="&rdfs;"
+    xmlns:wn20instances="&wn20instances;"
+    xmlns:wn20schema="&wn20schema;"
+    xml:lang="en-US">
+<rdf:Description rdf:about="&wn20instances;synset-breathe-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-exhale-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-inhale-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sneeze-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-exhale-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oversleep-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-snore-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wake_up-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soap-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-wash-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wear-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dress-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-conceive-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-copulate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-give_birth-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-conceive-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lie_in-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-give_birth-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-labor-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-give_birth-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-have_a_bun_in_the_oven-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-conceive-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carry_to_term-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-have_a_bun_in_the_oven-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-abort-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-conceive-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brood-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sit_down-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-menstruate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-ovulate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-administer-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-give-verb-20"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bring_around-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-treat-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-exercise-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sober_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drink-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-freeze-dry-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dehydrate-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mature-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-senesce-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-leak-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-break-verb-42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overhaul-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-repair-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-truncate-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut_off-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-baste-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cook-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-crust-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dry-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-leave-verb-12">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-die-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-demist-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-heat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-curl-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-flex-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sublime-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-condense-verb-4"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-evaporate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carbonize-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-heat-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cauterize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sear-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-freeze-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-solidify-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fuse-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-heat-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-macerate-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drench-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-putrefy-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smell-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-naturalize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-immigrate-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-immigrate-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-arrive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-settle-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-settle-verb-21">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-migrate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-emigrate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-leave-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-scale_down-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-decrease-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-scale_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-increase-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stuff-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-tan-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nitrify-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-oxidize-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dress-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-kill-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-master-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-understand-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-master-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drill-verb-3"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-learn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-study-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-read-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-recognize-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-know-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-misremember-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-remember-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-proofread-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-read-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-solve-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-reason-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-get-verb-20">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-calculate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-survey-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-quantify-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-distinguish-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compare-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-identify-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-classify-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-come_round-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-reconsider-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-classify-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compare-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-categorize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compare-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-authenticate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-verify-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-choose-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compare-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-screen-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-eliminate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-decide-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-debate-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-proselytize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-preach-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-argue-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disagree-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spy-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-investigate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-call-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dial-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hang_on-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-call-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tempt-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-attract-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-renege-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-promise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-subscribe-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-approve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-challenge-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-stop-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-interview-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-apply-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-knock-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-judge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-perjure-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-swear-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sandbag-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-understate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-condemn-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-judge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-applaud-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-approve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-explode-verb-7">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-boo-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-challenge-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-question-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-feed_back-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-answer-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-apologize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-admit-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-curtsy-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-bow-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-salute-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-gesticulate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-acquit-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-judge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-convict-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-judge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sentence-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-convict-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-confide-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-trust-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sell_out-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disclose-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tally-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-count-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dub-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-translate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pronounce-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-talk-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-address-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-speak-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-take_the_floor-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-address-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-initial-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-approve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-correspond-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-write-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-complete-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-write_down-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-allude-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-denote-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-e-mail-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-mail-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-compromise-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-agree-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-declaim-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-talk-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-move-verb-15">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-play-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-meet-verb-10">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-boat-race-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-boat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fight-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-campaign-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-war-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lose-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-win-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beat-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-win-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-score-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-keep_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-check-verb-19">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tie-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-play-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-submit-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-surrender-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pepper-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-throw-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-defend-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fight-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overshoot-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-aim-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trigger-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fire-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-machine_gun-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-shoot-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hit-verb-10">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-aim-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-undershoot-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-shoot-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overtake-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-use-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-consume-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cannibalize-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disassemble-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mine-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dig-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-quarry-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dig-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-addict-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-use-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-eat-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-chew-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-swallow-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tuck_in-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-eat-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-toast-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drink-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-board-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-feed-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-board-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-consume-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wean-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-breastfeed-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-suckle-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drink-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-delight-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-use-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wine_and_dine-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drink-verb-2"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-eat-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fatten-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-feed-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fritter-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-consume-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-forgo-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-abstain-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-digest-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-consume-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-metabolize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-digest-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-smoke-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-exhale-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-inhale-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-puff-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smoke-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-light_up-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smoke-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-huff-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-drug-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gulp-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-swallow-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-quench-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-consume-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-feel-verb-9">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-touch-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-paw-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-touch-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cling-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-attach-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-maul-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-injure-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-mutilate-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-massage-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bury-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cover-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spur-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-injure-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dust-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-remove-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-polish-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rub-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-touch-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-smooth-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-roughen-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-abrade-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-amputate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-undercut-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fell-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tar-and-feather-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cover-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-circumcise-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-indent-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-hit-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tie_down-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fasten-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rake-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-scrape-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-strickle-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smooth-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dig-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-remove-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-butcher-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sew-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-join-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-darn-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unbar-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-undo-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unbolt-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-undo-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wring_out-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compress-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unscrew-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rotate-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-seal-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fasten-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mask-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cook-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-button-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kick-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-punt-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-push-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-collate-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-gather-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rasp-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-file-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-compress-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-press-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-iron-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-heat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-grate-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beat-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-hit-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-toss-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-mix-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plug_in-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-join-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plug-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-insert-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-seduce-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-roll_in_the_hay-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-masturbate-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-caress-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bear-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-2"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bring-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-come-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bring-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-come-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-take_away-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-leave-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pierce-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pick-verb-10">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-chop-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brandish-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-hold-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-heft-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-lift-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-veil-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cover-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-unravel-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-separate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lace-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fasten-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wind-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-turn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-transplant-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tease-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-brush-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-impress-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-press-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wash-verb-7">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rinse-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-drape-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fold-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sit-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sit_down-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stand-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-arise-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lie-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-lie_down-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-erase-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-scar-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-incise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cut_out-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cleave-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cut-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-smother-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cover-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-smother-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cover-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-strangle-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compress-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-impale-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pierce-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bulldoze-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-wedge-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spoon-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-immerse-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-post-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-announce-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pry-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-loosen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-weld-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-blend-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-schematize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-organize-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spin-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-extrude-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-consummate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-roll_in_the_hay-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brew-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sour-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cook-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cook-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-alter-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-quilt-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pad-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-quilt-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-embroider-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rack-verb-9">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-stretch-verb-7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pipe-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-applique-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-knit-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sew-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tat-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-knot-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tattoo-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-prickle-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-enamel-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fire-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-smelt-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-heat-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gloss-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rub-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-illuminate-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-paint-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pencil-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-trace-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chalk-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-trace-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-charcoal-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-trace-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-doodle-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-trace-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-write-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-spell-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cast-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-film-verb-2"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perform-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-stage-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-enter-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-act-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pedal-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-play-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-harp-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pluck-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trumpet-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-blow-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-till-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cultivate-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plow-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dig-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hoe-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dig-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-etch-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-corrode-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beat-verb-18">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-tread-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-grudge-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-resent-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fancy-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-like-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dislike-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disapprove-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-like-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-approve-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-apprehend-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fear-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mortify-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-abstain-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lament-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-grieve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tease-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-arouse-verb-7"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disappoint-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-miss-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-repent-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-titillate-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-please-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dissatisfy-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-disappoint-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-intimidate-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-warn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-enjoy-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-like-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pump-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pour-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-push-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-3"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-press-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dance-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-step-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-call-verb-21">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-square_dance-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stumble-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-walk-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-walk-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-step-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rappel-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-mountaineer-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-backpack-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pack-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bear_down_on-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sail-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-drive-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-ride-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-steer-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-travel-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-motorcycle-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-kick-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-figure_skate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dance-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-speed_skate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-skate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-slalom-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-zigzag-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-water_ski-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-plane-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fly-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fly-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sailplane-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fly-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydroplane-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-glide-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-levitate-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-canoe-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-paddle-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hang_glide-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-glide-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-parachute-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-descend-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-glide-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-zigzag-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-turn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-catch_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-follow-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-peak-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-reach-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-travel-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-miss-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-travel-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-convoy-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-protect-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chaperone-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-protect-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-body_guard-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-escort-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hunch-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-bend-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-line_up-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-wait-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ripple-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-fold-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-approach-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-advance-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stampede-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-run-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rush-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bustle-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rush-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-crouch-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-change_posture-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overflow-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-run-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bring-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-come-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-leave_behind-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-leave-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-record-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-experience-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dream-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sleep-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-notice-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-note-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-reach_one_s_nostrils-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smell-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sniff_out-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-smell-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-feel-verb-8">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-touch-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-discover-verb-7">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-watch-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-see-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-look-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-see-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-examine-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-look-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-see_double-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-see-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-survey-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-look-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-watch-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-look-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-listen-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-hear-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-catch-verb-14">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-listen-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-deafen-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-make_noise-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-taste-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-taste-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-recognize-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-perceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-buy-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-choose-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-pay-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fund-verb-6">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-finance-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-transfer-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-move-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-reclaim-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-save-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sell-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-give-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fetch-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-change_hands-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sell_out-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sell-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-default-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-owe-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-remit-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-transfer-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trade-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-buy-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-sell-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-save-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-buy-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hold_up-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-assail-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rout_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-search-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-share-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-separate-verb-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-admeasure-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-share-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-offer-verb-7">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-dicker-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-administer-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-execute-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-overcharge-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-charge-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shop-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-buy-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-supplement-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-supply-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sack-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-destroy-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-undersell-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-discount-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-check_out-verb-5">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-buy-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-adjourn-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-meet-verb-8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-license-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-approve-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-subcontract-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-contract-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sign-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-endorse-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ostracize-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-avoid-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-veto-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-vote-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cancel-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-schedule-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-burn-verb-8">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-burn-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-send_in-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-visit-verb-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-divorce-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-marry-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-arraign-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-charge-verb-2"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-indict-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-reserve-verb-4">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-procure-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-punish-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-estimate-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-suspend-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-punish-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-succeed-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-try-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-practice-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-work-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-burglarize-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-break_in-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cheat-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-deceive-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-defect-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-protest-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-live-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-exist-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-survive-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-be-verb-11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-outlive-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-be-verb-11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-survive-verb-2">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-recuperate-verb-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-include-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-have-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hesitate-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-doubt-verb-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-postpone-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-cancel-verb-1"/>
+  <wn20schema:entails rdf:resource="&wn20instances;synset-reschedule-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lead-verb-8">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-compete-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sulk-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-resent-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-precipitate-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-condense-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ice_up-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-freeze-verb-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-set_ablaze-verb-1">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-ignite-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-storm-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-rain-verb-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thunder-verb-3">
+  <wn20schema:entails rdf:resource="&wn20instances;synset-storm-verb-4"/>
+</rdf:Description>
+
+</rdf:RDF>

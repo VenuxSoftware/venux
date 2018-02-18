@@ -1,0 +1,2443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+    <!ENTITY wn20instances 'http://www.w3.org/2006/03/wn/wn20/instances/'>
+    <!ENTITY wn20schema 'http://www.w3.org/2006/03/wn/wn20/schema/'>
+]>
+
+<rdf:RDF
+    xmlns:rdf="&rdf;"
+    xmlns:rdfs="&rdfs;"
+    xmlns:wn20instances="&wn20instances;"
+    xmlns:wn20schema="&wn20schema;"
+    xml:lang="en-US">
+<rdf:Description rdf:about="&wn20instances;synset-eiderdown-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-eiderdown-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oxtail-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-oxtail_soup-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-atenolol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Tenoretic-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-belting-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-belt-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-belt-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brompheniramine_maleate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Dimetapp-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cannabis-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-joint-noun-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-catgut-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-suture-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chenille-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chenille-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chino-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chinos-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cocaine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coca-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydrochlorothiazide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Maxzide-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mackintosh-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-macintosh-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mescaline-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mescal_button-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-motley-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-motley-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-olive_drab-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-olive_drab-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-opium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-opiate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pavement-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-road-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sidewalk-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-street-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-paving_stone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pavement-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plastic_explosive-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plastic_bomb-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-quinine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tonic-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-screening-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-screen-noun-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shirting-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-shirt-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tin_plate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tinware-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tyrocidine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tyrothricin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-warp-noun-4">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fabric-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-woof-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fabric-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wool-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tweed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-saturation-noun-4">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chromatic_color-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tissue-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-organism-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-animal_tissue-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-animal-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-horn-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-collagen-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bone-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cartilage-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-connective_tissue-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tendon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-elastin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-elastic_tissue-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cartilage-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cartilaginous_structure-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-serum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blood-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-blood_plasma-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blood-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lymph-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chyle-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nucleoplasm-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nucleus-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-neuroglia-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-glioma-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dura_mater-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tentorium-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-grey_matter-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cerebral_cortex-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-white_matter-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-central_nervous_system-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-decidua-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-endometrium-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-paper-noun-5">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-page-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-copy-noun-4">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-journalism-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cornmeal-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hoecake-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mush-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-polenta-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oatmeal-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-porridge-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-flour-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bread-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dough-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pastry-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soybean_meal-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soya_milk-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-center-noun-14">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chocolate_candy-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cocoa_butter-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-white_chocolate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tapioca-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cassava-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lard-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hog-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vegetable_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-margarine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-coconut_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coconut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-corn_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-corn-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cottonseed_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cottonseed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-olive_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-olive-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-palm_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-palm_nut-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-peanut_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-peanut-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-safflower_oil-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-safflower_seed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sesame_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sesame_seed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soybean_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soy-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sunflower_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sunflower_seed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-walnut_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-English_walnut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sausage_meat-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sausage-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-raw_vegetable-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-crudites-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pimento-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-paprika-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chili-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chili_powder-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tabasco-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Tabasco-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soy-noun-4">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soy_sauce-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soybean_meal-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-field_soybean-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-oil_cake-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-taro-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-poi-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cranberry-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cranberry_sauce-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sloe-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sloe_gin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cacao_bean-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chocolate-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cocoa-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-creme_de_cacao-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cocoa-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cocoa-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-coconut-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coconut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-coconut_milk-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coconut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-copra-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coconut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dika_nut-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dika_bread-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cola_extract-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kola-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-escargot-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-edible_snail-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-periwinkle-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-periwinkle-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-whelk-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-whelk-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-anchovy-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-anchovy_paste-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-prawn-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-shrimp_cocktail-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-peppermint_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-peppermint-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-peppermint-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spearmint_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spearmint-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lemon_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lemon_peel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wintergreen_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-teaberry-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-clove-noun-4">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-clove-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cumin-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kummel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ginger-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ginger-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ginger_ale-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nutmeg-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mace-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mint-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mint-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mustard_seed-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mustard-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cayenne-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cayenne-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-horseradish-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-horseradish-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-horseradish_sauce-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-paprika-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sweet_pepper-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-anise-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Pernod-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-absinth-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-anise_cookie-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-anisette-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ouzo-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pastis-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Chinese_anise-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-five_spice_powder-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-juniper_berries-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-caraway_seed-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-aquavit-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kummel-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seedcake-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vanilla_bean-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vanilla-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soya_milk-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bean_curd-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-curd-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cheese-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-honey-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mead-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Newburg_sauce-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seafood_Newburg-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-malt-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-malt-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydromel-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mead-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sake-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rice-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nipa-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nipa_palm-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-grape-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-negus-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-red_wine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sangaree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Medoc-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Sauvignon_grape-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Chardonnay-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Chardonnay-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Pinot_noir-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Pinot_noir-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Pinot_blanc-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Pinot_blanc-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Cabernet-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Cabernet_Sauvignon_grape-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Sauvignon_blanc-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Sauvignon_blanc-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Riesling-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Riesling-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-zinfandel-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Zinfandel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Tokay-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Tokay-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sweet_vermouth-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gin_and_it-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-manhattan-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Chenin_blanc-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Chenin_blanc-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-malmsey-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-malvasia-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-muscat-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-muscat-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brandy-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-claret_cup-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pink_lady-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ratafia-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-stinger-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-applejack-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hard_cider-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kirsch-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-morello-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gin_and_it-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gin_and_tonic-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-martini-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pink_lady-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Tom_and_Jerry-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-daiquiri-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hot_toddy-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-planter_s_punch-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-swizzle-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zombie-noun-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pulque-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-maguey-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mescal-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-maguey-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tequila-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Agave_tequilana-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vodka-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Bloody_Mary-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bullshot-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-screwdriver-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vodka_martini-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-whiskey-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-manhattan-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-old_fashioned-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-whiskey_sour-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bourbon-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-julep-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Irish-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Irish_coffee-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Scotch-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Rob_Roy-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-creme_de_menthe-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-grasshopper-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-stinger-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tonic-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gin_and_tonic-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-coffee_bean-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coffee-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cassiri-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bitter_cassava-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tea-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tea-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-soda_water-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pop-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-antiparticle-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-antimatter-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-interplanetary_gas-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-solar_wind-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cosmic_dust-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-galaxy-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-snowflake-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-snow-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pine-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-white_pine-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-white_pine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-yellow_pine-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-yellow_pine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-larch-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-larch-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fir-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fir-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cedar-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cedar-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cedar-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pencil_cedar-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pencil_cedar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spruce-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spruce-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hemlock-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hemlock-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-douglas_fir-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-douglas_fir-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cypress-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cypress-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Port_Orford_cedar-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Oregon_cedar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-redwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sequoia-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sandarac-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sandarac-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sandarac-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sandarac-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kauri-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kauri_pine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-yellowwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-yellowwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-yew-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-yew-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lancewood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lancewood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sassafras_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sassafras-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tulipwood-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tulip_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bayberry_wax-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wax_myrtle-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-zebrawood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zebrawood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cocuswood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-granadilla_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-courbaril_copal-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-courbaril-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shittimwood-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-shittah-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-black_catechu-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-catechu-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sabicu-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sabicu-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calamus_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sweet_flag-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rapeseed-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rape-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rape_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rapeseed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-arnica-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Arnica_montana-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-common_wormwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-absinth-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-safflower_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-safflower-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chamomile-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-camomile_tea-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-madia_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-melosa-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vanillin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vanilla_bean-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bamboo-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bamboo-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-New_Zealand_cotton-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribbon_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tulipwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tulipwood_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-balsa-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-balsa-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kola_nut-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cola-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-basswood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-linden-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beefwood-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beefwood-noun-3"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beefwood-noun-5"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-scrub_beefwood-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-briarwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-briarroot-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beech-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beech-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chestnut-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chestnut-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oak-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-oak-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-birch-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-birch-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-alder-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-alder-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hazel-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hazel-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hazelnut-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-olive-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-olive_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ash-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ash-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sweet_gum-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sweet_gum-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-walnut-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-walnut-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hickory-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hickory-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pecan-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pecan-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gumwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gum_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-eucalyptus-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-eucalyptus-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-eucalyptus_gum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-river_red_gum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tupelo-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tupelo-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-poon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-poon-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-labdanum-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-common_gum_cistus-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-red_lauan-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-red_lauan-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-elm-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-elm-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sarsaparilla_root-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sarsaparilla-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bowstring_hemp-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sansevieria-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-physostigmine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-medicine-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brazilwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-brazilwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carob-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carob-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-locust-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-locust_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-logwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-logwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rosewood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rosewood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kingwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kingwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-granadilla_wood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cocobolo-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-blackwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blackwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tolu-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tolu_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-balsam_of_Peru-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Peruvian_balsam-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Panama_redwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-quira-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-amboyna-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-padauk-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-East_India_kino-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kino-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ruby_wood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-red_sandalwood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-black_locust-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-black_locust-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bassine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-palmyra-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carnauba_wax-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carnauba-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-babassu_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-babassu_nut-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cohune-nut_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cohune_nut-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-raffia-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-raffia_palm-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-applewood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-apple_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cherry-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cherry-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-marasca-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-maraschino-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fruitwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fruit_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sweet_woodruff-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-May_wine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-elemi-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-incense_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-myrrh-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-myrrh_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-incense_wood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-incense_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mahogany-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mahogany-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-satinwood-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-satinwood-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cigar-box_cedar-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Spanish_cedar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-orangewood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-orange-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-citronwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-citron-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-Jamaica_quassia-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Jamaica_quassia-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-guaiac_wood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-palo_santo-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lignum_vitae-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lignum_vitae-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-guaiacum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lignum_vitae-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-poplar-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-poplar-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sandalwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sandalwood_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-boxwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-box-noun-6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-maple-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-maple-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sumac-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sumac-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ebony-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ebony-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-marblewood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-marblewood-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-balata-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-balata-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sycamore-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plane_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pennyroyal_oil-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pennyroyal-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hyssop_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Chartreuse-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spike_lavender_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spike_lavender-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pennyroyal_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pennyroyal-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-common_tobacco-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tobacco-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-teak-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-teak-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-croton_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-croton-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dogwood-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dogwood-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-parenchyma-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-leaf-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pith-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pulp-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-root-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lignum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-woody_plant-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sapwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-heartwood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cubeb-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cubeb-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-burl-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-burl-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-saran-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cling_film-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-acetic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-diclofenac_potassium-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-diclofenac_sodium-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-etodolac-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-indomethacin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ketorolac-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ketorolac_tromethamine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-acetylene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-oxyacetylene-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-adobe-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-adobe-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-amino_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-protein-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cerotic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beeswax-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-actinium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-uranium_ore-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-aluminum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Duralumin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-aluminum_foil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bauxite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-antimony-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-stibnite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-argon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-arsenic-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-arsenopyrite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-herbicide-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-insecticide-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-orpiment-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-realgar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-barium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-heavy_spar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-beryllium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beryl-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chrysoberyl-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-boron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-borax-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kernite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bromine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cadmium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hemimorphite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calcium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-calcium_oxide-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fluorite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gypsum-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-limestone-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carbon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coal-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-limestone-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-petroleum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cerium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bastnasite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cesium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pollucite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chlorine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sodium_chloride-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chromium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chromite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cobalt-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cobaltite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-smaltite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-copper-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bornite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-brass-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bronze-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chalcocite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chalcopyrite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cuprite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-malachite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-erbium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fergusonite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-europium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fluorine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cryolite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fluorapatite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fluorite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gadolinium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-samarskite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gallium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bauxite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-germanium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-argyrodite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-germanite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gold-noun-3">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dental_gold-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gold-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gold_foil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gold_leaf-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sylvanite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-holmium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydrogen-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-water-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-indium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zinc_blende-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-iodine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-iron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-iron_ore-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-steel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-krypton-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lead-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cerussite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-galena-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lithium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-amblygonite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lepidolite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spodumene-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zinnwaldite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-magnesium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carnallite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dolomite-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-magnesite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-olivine-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-periclase-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spinel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-manganese-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hausmannite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-manganite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-psilomelane-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pyrolusite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rhodochrosite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mercury-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-calomel-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cinnabar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-molybdenum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-molybdenite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-neodymium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bastnasite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-neon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nickel-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-garnierite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-millerite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pentlandite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-smaltite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-niobium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-niobite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nitrogen-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oxygen-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ozone-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-water-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-phosphorus-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-apatite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-potassium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carnallite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-kainite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-langbeinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sylvite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-praseodymium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bastnasite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-radium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-uranium_ore-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rubidium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carnallite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lepidolite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pollucite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-samarium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bastnasite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-scandium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-thortveitite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-selenium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pyrite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-silicon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-clay-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-feldspar-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-granite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-quartz-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sand-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-silicone-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-silver-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-argentite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-silver-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sterling_silver-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sodium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-halite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-strontium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-celestite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-strontianite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sulfur-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sulfide-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vitriol-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tantalum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fergusonite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-niobite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tantalite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tellurium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sylvanite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-telluride-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-terbium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-apatite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thallium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zinc_blende-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thorium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-thorite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thulium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-apatite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-xenotime-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cassiterite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tinfoil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-titanium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ilmenite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rutile-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-tungsten-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-scheelite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wolframite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-uranium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-uraninite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vanadium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carnotite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vanadinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-xenon-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-air-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ytterbium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-monazite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-xenotime-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-yttrium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fergusonite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gadolinite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-xenotime-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-zirconium-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-baddeleyite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zircon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mineral-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rock-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-amphibole-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-amphibolite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-china_clay-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Kaopectate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sodium_chloride-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-corundom-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emery-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-emery-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emery_paper-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gibbsite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bauxite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-goethite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rust-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gypsum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plaster_of_Paris-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hemimorphite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-calamine_lotion-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-manganese_tetroxide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hausmannite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-meerschaum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-meerschaum-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nepheline-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nephelinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gasoline-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gasohol-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pyroxene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-basalt-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nephelinite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ribose-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sial-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-crust-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sima-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-crust-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lac-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sealing_wax-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-shellac-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stick_lac-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lac_dye-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seed_lac-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-shellac-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-adenine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-deoxyribonucleic_acid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ethyl_alcohol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gasohol-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-neutral_spirits-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nicotine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tobacco-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-strychnine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nux_vomica-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-brucine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nux_vomica-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-alluvial_soil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-alluvial_sediment-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-allyl_alcohol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-methanol-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-alpha_iron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ferrite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gamma_iron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-austenite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-protein-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-egg-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-legume-noun-3"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-meat-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-milk-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mucin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mucus-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-actin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-actomyosin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-serum_albumin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-serum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-serum_globulin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-serum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-keratin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-feather-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hair-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-horn-noun-7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-opsin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-iodopsin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-visual_purple-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plasma_protein-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plasma-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ptyalin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-saliva-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-azadirachtin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-neem_seed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-trans_fatty_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-margarine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ricinoleic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-castor_oil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-polypeptide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-protein-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-progesterone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pill-noun-5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-norethindrone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Loestrin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Micronor-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Modicon-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Nor-Q-D-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Norinyl-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Norlestrin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovocon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-norethynodrel-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Enovid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-norgestrel-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Lo_Ovral-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovral-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovrette-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-estradiol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Lo_Ovral-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Loestrin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Modicon-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Norlestrin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovocon-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovral-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-mestranol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Enovid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Norinyl-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Ovulen-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-melanin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-feather-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-skin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ivory-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tusk-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bone-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bone-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-shell-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carapace-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-caffeine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coffee-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tea-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cassava-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tapioca-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cowhide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cowhide-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-austenite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-austenitic_steel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hydrazoite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hydrazoic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bleaching_agent-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bleach_liquor-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-liquid_bleach-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-neem_cake-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-neem_seed-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-buffer-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-buffer_solution-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-isobutylene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-butyl-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-carbonyl_group-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-carbonyl-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-camphor-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-celluloid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mothball-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-candelilla_wax-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-candelilla-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-candelilla-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cellulose-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cellulose_ester-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cellulosic-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fiber-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-paper-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cellulose_nitrate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blasting_gelatin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-celluloid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cordite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pyrocellulose-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-smokeless_powder-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cement-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-concrete-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mortar-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cementite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pearlite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-bran-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-bran-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chalk-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chalk-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-citric_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sour_salt-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-clay-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-brick-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pottery-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tile-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fireclay-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-firebrick-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-furnace_lining-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lanolin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ointment-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-semiconductor-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-semiconductor_device-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-alumina-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-furnace_lining-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-aluminum_hydroxide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gibbsite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cytosine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-deoxyribonucleic_acid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dewdrop-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dew-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dioxin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Agent_Orange-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-air-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wind-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-water-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-body_of_water-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dewdrop-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ice-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ice_crystal-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-perspiration-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-snowflake-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tear-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-effluent-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sewage-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ferrite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pearlite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sodium_nitrate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fertilizer-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-potassium_nitrate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fertilizer-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-propionic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fenoprofen-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-flurbiprofen-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ibuprofen-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ketoprofen-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-naproxen-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-naproxen_sodium-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-oxaprozin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-fat-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fat_cell-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-plagioclase-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-basalt-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dacite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ferric_oxide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hemosiderin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rust-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-flax-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-linen-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cotton-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cotton-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-padding-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-flavin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vitamin_B2-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-foamentation-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-compress-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-galvanized_iron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-corrugated_iron-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-glass-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-glassware-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plate_glass-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-triglyceride-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fat-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nitroglycerin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Nitrospan-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blasting_gelatin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cordite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dynamite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-groundmass-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-porphyry-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-guanine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-deoxyribonucleic_acid-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-balsam-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-balsam-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-turpentine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-turpentine-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-myrrh-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-myrrh_tree-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-agar-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-agar-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chicle-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chewing_gum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gum_arabic-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-acacia-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-epoxy-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-adhesive_material-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hematite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emery-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hemp-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-canvas-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rope-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-humus-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-A-horizon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hyaluronic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-synovia-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vitreous_humor-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-butadiene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-buna_rubber-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-chloroprene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-neoprene-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ice-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-glacier-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ice_cube-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-jute-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rope-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sacking-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-kapok-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-padding-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ketone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nabumetone-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sulindac-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tolmetin_sodium-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lignin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wood-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calcite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-limestone-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-dripstone-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-stalactite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-stalagmite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calcium_carbonate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-calcite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-chalk-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-limewater-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blackwash-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calcium_chloride-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-linoleic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-corn_oil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-linseed_oil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soybean_oil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-linolenic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-linseed_oil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-soybean_oil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-lipase-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gastric_juice-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-litmus-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-litmus_paper-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-magnetite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emery-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lodestone-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-martensite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-quenched_steel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-menhaden_oil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-menhaden-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-calomel-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-blackwash-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-methane-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-natural_gas-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-methyl_salicylate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wintergreen_oil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-myelin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-medullary_sheath-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-naphthalene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-coal_tar-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mothball-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-straw-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-padding-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nitrofuran-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nitrofurantoin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cellulose_acetate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-acetate_rayon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-cellulose_xanthate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-viscose_rayon-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-oleic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-canola_oil-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-olive_oil-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-palmitic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-dairy_product-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-meat-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-para_aminobenzoic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sunscreen-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pearlite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cast_iron-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-steel-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pectin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-Kaopectate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pepsin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gastric_juice-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-petrolatum-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cordite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-petrolatum_gauze-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-phospholipid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-membrane-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pig_iron-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cast_iron-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-wrought_iron-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-pigment-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-paint-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rauwolfia-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-reserpine-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-raveling-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lint-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-rennin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-gastric_juice-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rennet-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-retinene-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-visual_purple-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-evaporite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-seawater-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-salicylic_acid-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-aspirin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-diflunisal-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-samarskite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pegmatite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ammonium_nitrate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-fertilizer-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nitrous_oxide-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-silver_nitrate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emulsion-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-silver_bromide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-emulsion-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-nitro_group-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-nitrate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sand-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-beach-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-concrete-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-quicksand-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sandbar-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-spit-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gamma_globulin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-plasma-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-myosin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-actomyosin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-hemoglobin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-red_blood_cell-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-heme-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cytochrome-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hemoglobin-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-myoglobin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-globin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-hemoglobin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-opsonin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-serum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-capsaicin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-capsicum-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-gingerol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ginger-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-piperin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-pepper-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-isothiocyanate-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-horseradish-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mustard-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-mustard-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-onion-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-radish-noun-3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-silica-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cristobalite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lechartelierite-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-quartz-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-tridymite-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sisal-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-rope-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-snow-noun-2">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-snowball-noun-4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-sodalite-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-igneous_rock-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-stacte-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-incense-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-solid_solution-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-alloy-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-spirits_of_ammonia-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-smelling_salts-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-water_vapor-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-cloud-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-HDL_cholesterol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-high-density_lipoprotein-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-LDL_cholesterol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-low-density_lipoprotein-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-ergosterol-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-vitamin_D-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-jaggery-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sago_palm-noun-2"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-sugar_palm-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-talc-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-talcum-noun-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-thymine-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-deoxyribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-uracil-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-ribonucleic_acid-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-uranyl-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-uranyl_nitrate-noun-1"/>
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-uranyl_oxalate-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-vitamin-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-multivitamin-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-wood-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-lumber-noun-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&wn20instances;synset-zinc_oxide-noun-1">
+  <wn20schema:substanceMeronymOf rdf:resource="&wn20instances;synset-zinc_white-noun-1"/>
+</rdf:Description>
+
+</rdf:RDF>
