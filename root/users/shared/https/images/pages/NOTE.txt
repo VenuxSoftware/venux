@@ -1,1 +1,0 @@
-Main page images are in 285x285: height of icons is 250: centered to artboard
