@@ -1,4 +1,4 @@
-## Venux
+## Venux Technologies
 
 **This is an alpha software. Not recommended to use at this point.**
 
